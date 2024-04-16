@@ -1,0 +1,23 @@
+.homepage{
+
+background-attachment:fixed;
+    margin: 0%;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+ max-width: 100%;
+ background-size: cover;
+ height: 600px;
+    width: 100vw;
+    color: black;
+}
+ .third_section{
+height: 400px;
+width: 500px;
+background-color: pink;
+
+
+
+
+ }
